@@ -8,8 +8,11 @@ ECE281_CE1
 
 Insert truth_table.png here
 
+![alt text](https://github.com/JasperArneberg/ECE281_CE1/blob/master/truth_table.png "Truth Table")
+
 Insert screenshot.png here
 
+![alt text](https://github.com/JasperArneberg/ECE281_CE1/blob/master/screenshot.png "Screenshot")
 
 # Analysis
 
