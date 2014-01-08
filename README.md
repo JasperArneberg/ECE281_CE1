@@ -16,4 +16,4 @@ ECE281_CE1
 
 # Analysis
 
-The output from the circuit matches the expected result from the truth table of A*B'+B*C.
+The waveform output of the simulated circuit matches the expected result from the truth table of A*B'+B*C.
