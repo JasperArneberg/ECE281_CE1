@@ -25,8 +25,10 @@ ECE281_CE1
 
 # Waveform Output
 
-![alt text](https://github.com/JasperArneberg/ECE281_CE1/blob/master/screenshot.png?raw=true "Screenshot")
+![alt text](https://github.com/JasperArneberg/ECE281_CE1/blob/master/waveform.png?raw=true "Screenshot")
 
 # Analysis
 
-The waveform output of the simulated circuit matches the expected result from the truth table of A*B'+B*C.
+The waveform output of the simulated circuit matches the expected result from the truth table of A*B'+B*C. The result is demonstrated in the truth table comparison of the expected and simulated result.
+
+Documentation: None.
