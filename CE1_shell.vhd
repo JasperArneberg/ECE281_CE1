@@ -3,7 +3,7 @@
 -- Engineer: 
 -- 
 -- Create Date:    12:18:08 07/05/2012 
--- Design Name: 
+-- Design Name: 	Jasper Arneberg
 -- Module Name:    CE1_vhdl - Behavioral 
 -- Project Name: 
 -- Target Devices: 
