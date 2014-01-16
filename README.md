@@ -8,7 +8,20 @@ ECE281_CE1
 
 # Truth Table
 
+<!---
 ![alt text](https://github.com/JasperArneberg/ECE281_CE1/blob/master/truth_table.png?raw=true "Truth Table")
+-->
+
+| A | B | C | Fexpected | Fsim |
+| :--: | :--: | :--: | :----: | :----: |
+| 0 | 0 | 0 | 0 | 0 |
+| 0 | 0 | 1 | 0 | 0 |
+| 0 | 1 | 0 | 0 | 0 |
+| 0 | 1 | 1 | 1 | 1 |
+| 1 | 0 | 0 | 1 | 1 |
+| 1 | 0 | 1 | 1 | 1 |
+| 1 | 1 | 0 | 0 | 0 |
+| 1 | 1 | 1 | 1 | 1 |
 
 # Waveform Output
 
